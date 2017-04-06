@@ -1,251 +1,0 @@
-TPickShowScreenSaver
-v4
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/Info.plist Info.plist
-cCopyStringsFile /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-cStripNIB /Users/maris/Documents/KaonScreenSaver/ConfigureSheet.nib
-cProcessPCH /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/PickShowScreenSaver_Prefix.pch.pth PickShowScreenSaver_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/PickShowScreenSaver_Prefix.pch.pth PickShowScreenSaver_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/KaonScreenSaverView.o /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/KaonScreenSaverView.o /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/PickShowScreenSaver normal i386
-cLd /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/PickShowScreenSaver normal x86_64
-cCreateUniversalBinary /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/MacOS/PickShowScreenSaver normal "x86_64 i386"
-cTouch /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver
-
-N/Developer/SDKs/MacOSX10.7.sdk
-c000000004F13BCEA00000000000000EE
-t1326693610
-s238
-
-N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
-c000000004E794DAC0000000000001911
-t1316572588
-s6417
-
-N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004E768C210000000000001534
-t1316391969
-s5428
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004F1082210000000000006560
-t1326481953
-s25952
-
-N/System/Library/Frameworks/ScreenSaver.framework/ScreenSaver
-c000000004F2F200C000000000007CFE0
-t1328488460
-s511968
-
-N/Users/maris/Documents/KaonScreenSaver/ConfigureSheet.nib
-c000000004DF9840D0000000000000088
-t1308197901
-s136
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/KaonScreenSaverView.o
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/PickShowScreenSaver
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/PickShowScreenSaver.LinkFileList
-c000000004F4B10C300000000000000BB
-t1330319555
-s187
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/KaonScreenSaverView.o
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/PickShowScreenSaver
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/PickShowScreenSaver.LinkFileList
-c000000004F4B10C300000000000000BD
-t1330319555
-s189
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/PickShowScreenSaver_Prefix.pch.pth
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/PickShowScreenSaver_Prefix.pch.pth
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/Info.plist
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/MacOS/PickShowScreenSaver
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/Resources/ConfigureSheet.nib
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/Resources/English.lproj/InfoPlist.strings
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/English.lproj/InfoPlist.strings
-c000000004CD8694500000000000000DE
-t1289251141
-s222
-
-N/Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m
-c000000004F4AD27C0000000000003AEA
-t1330303612
-s15082
-
-N/Users/maris/Documents/KaonScreenSaver/PickShowScreenSaver_Prefix.pch
-c000000004CD8694500000000000000CA
-t1289251141
-s202
-i<Foundation/Foundation.h>
-i<AppKit/AppKit.h>
-
-NInfo.plist
-c000000004F4B0EB10000000000000362
-t1330319025
-s866
-
-CBuild AST from /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m
-r0
-
-CCheck dependencies
-r0
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3f6fe24248fbb441^8d25144348fbb441^---0#1#0#--18"Check dependencies36"7E7D290C-E731-42E6-A4BA-941E84ADD006-
-
-CCompileC DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/KaonScreenSaverView.o /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s352012366.518435
-e352012367.303249
-r1
-xCompileC
-xDerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/KaonScreenSaverView.o
-x/Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m0ed9844e48fbb441^8484504f48fbb441^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m0000000000000000^2287"CompileC DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/KaonScreenSaverView.o KaonScreenSaverView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maris/Documents/KaonScreenSaver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/PickShowScreenSaver.hmap -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/include -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/DerivedSources/i386 -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/DerivedSources -F/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -include /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/PickShowScreenSaver_Prefix.pch -MMD -MT dependencies -MF /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/KaonScreenSaverView.d -c /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m -o /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/KaonScreenSaverView.o36"B7B83A3E-1491-4C20-BE5D-C6E278348989-
-
-CCompileC DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/KaonScreenSaverView.o /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s352012366.173009
-e352012367.383182
-r1
-xCompileC
-xDerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/KaonScreenSaverView.o
-x/Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.mca872c4e48fbb441^eb56634f48fbb441^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m0000000000000000^2299"CompileC DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/KaonScreenSaverView.o KaonScreenSaverView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maris/Documents/KaonScreenSaver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/PickShowScreenSaver.hmap -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/include -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/DerivedSources/x86_64 -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/DerivedSources -F/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -include /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/PickShowScreenSaver_Prefix.pch -MMD -MT dependencies -MF /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/KaonScreenSaverView.d -c /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m -o /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/KaonScreenSaverView.o36"AED5DA7B-EA97-4473-AE02-FC4C07826252-
-
-CCopyStringsFile /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-s352012355.098316
-e352012355.159344
-r1
-xCopyStringsFile
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/Resources/English.lproj/InfoPlist.strings
-xEnglish.lproj/InfoPlist.strings
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings4947194348fbb441^f6b3284348fbb441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/maris/Documents/KaonScreenSaver/English.lproj/InfoPlist.strings0000000000000000^493"CopyStringsFile DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/maris/Documents/KaonScreenSaver    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"F7F8B66E-0720-4BE7-864C-D6807CB364D5-
-
-CCreateUniversalBinary /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/MacOS/PickShowScreenSaver normal "x86_64 i386"
-s352012368.733072
-e352012368.791957
-r1
-xCreateUniversalBinary
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/MacOS/PickShowScreenSaver
-xnormal
-xx86_64 i386
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection172"Create universal binary /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/MacOS/PickShowScreenSaverfdbebb5048fbb441^eececa5048fbb441^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/MacOS/PickShowScreenSaver00f43865ddffdf42^754"CreateUniversalBinary DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/MacOS/PickShowScreenSaver normal "x86_64 i386"    cd /Users/maris/Documents/KaonScreenSaver    /usr/bin/lipo -create /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/PickShowScreenSaver /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/PickShowScreenSaver -output /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/MacOS/PickShowScreenSaver36"5DF36FB6-9A95-41F2-B9B8-03DBBDA472ED-
-
-CLd /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/PickShowScreenSaver normal i386
-s352012367.384258
-e352012368.725884
-r1
-xLd
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/PickShowScreenSaver
-xnormal
-xi386
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection189"Link /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/PickShowScreenSaver5f7b624f48fbb441^9fe5b95048fbb441^---0#0#0#--979"Ld DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/PickShowScreenSaver normal i386    cd /Users/maris/Documents/KaonScreenSaver    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/clang -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.7.sdk -L/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -F/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -filelist /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/PickShowScreenSaver.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework ScreenSaver -o /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/i386/PickShowScreenSaver36"9F593D5E-D788-4BA6-A43B-B175DA79C437-
-
-CLd /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/PickShowScreenSaver normal x86_64
-s352012367.400786
-e352012368.720530
-r1
-xLd
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/PickShowScreenSaver
-xnormal
-xx86_64
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection191"Link /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/PickShowScreenSavere1b6664f48fbb441^6a86b85048fbb441^---0#0#0#--989"Ld DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/PickShowScreenSaver normal x86_64    cd /Users/maris/Documents/KaonScreenSaver    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/clang -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.7.sdk -L/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -F/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -filelist /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/PickShowScreenSaver.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework ScreenSaver -o /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/Objects-normal/x86_64/PickShowScreenSaver36"6BA75D3A-4075-469C-9F18-F6749C99CE2B-
-
-CProcessInfoPlistFile /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/Info.plist Info.plist
-s352012355.085195
-e352012355.090014
-r1
-xProcessInfoPlistFile
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/Info.plist
-xInfo.plist
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistace6154348fbb441^670c174348fbb441^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/maris/Documents/KaonScreenSaver/Info.plist0000000000000000^388"ProcessInfoPlistFile DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/Info.plist Info.plist    cd /Users/maris/Documents/KaonScreenSaver    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/Info.plist36"BE395A03-1603-4F3E-B9A3-DEFF4A25F8E8-
-
-CProcessPCH /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/PickShowScreenSaver_Prefix.pch.pth PickShowScreenSaver_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s352012360.625375
-e352012366.510680
-r1
-xProcessPCH
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/PickShowScreenSaver_Prefix.pch.pth
-xPickShowScreenSaver_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile PickShowScreenSaver_Prefix.pchbd35a04848fbb441^edbb824e48fbb441^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/maris/Documents/KaonScreenSaver/PickShowScreenSaver_Prefix.pch0000000000000000^2112"ProcessPCH DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/PickShowScreenSaver_Prefix.pch.pth PickShowScreenSaver_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maris/Documents/KaonScreenSaver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/PickShowScreenSaver.hmap -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/include -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/DerivedSources/i386 -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/DerivedSources -F/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -c /Users/maris/Documents/KaonScreenSaver/PickShowScreenSaver_Prefix.pch -o /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/PickShowScreenSaver_Prefix.pch.pth -MMD -MT dependencies -MF /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/PickShowScreenSaver_Prefix.pch.d36"37E8A319-FB01-4B84-8792-4531813DFD62-
-
-CProcessPCH /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/PickShowScreenSaver_Prefix.pch.pth PickShowScreenSaver_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s352012360.624294
-e352012366.165017
-r1
-xProcessPCH
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/PickShowScreenSaver_Prefix.pch.pth
-xPickShowScreenSaver_Prefix.pch
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile PickShowScreenSaver_Prefix.pch5ef69f4848fbb441^083e2a4e48fbb441^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/maris/Documents/KaonScreenSaver/PickShowScreenSaver_Prefix.pch0000000000000000^2118"ProcessPCH DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/PickShowScreenSaver_Prefix.pch.pth PickShowScreenSaver_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maris/Documents/KaonScreenSaver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/PickShowScreenSaver.hmap -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/include -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/DerivedSources/x86_64 -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/PickShowScreenSaver.build/Debug/PickShowScreenSaver.build/DerivedSources -F/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -c /Users/maris/Documents/KaonScreenSaver/PickShowScreenSaver_Prefix.pch -o /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/PickShowScreenSaver_Prefix.pch.pth -MMD -MT dependencies -MF /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/PickShowScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/PickShowScreenSaver_Prefix.pch.d36"A838E004-461C-4E3B-8CBD-3F0C95F783DE-
-
-CProcessPCH /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Index/PrecompiledHeaders/PickShowScreenSaver_Prefix-eblyifzofianyqgmgkcczybdosfl_ast/PickShowScreenSaver_Prefix.pch.pth PickShowScreenSaver_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Index/PrecompiledHeaders/PickShowScreenSaver_Prefix-eyzspfxppthmnwedsbpqncvmsjjl_ast/PickShowScreenSaver_Prefix.pch.pth PickShowScreenSaver_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CStripNIB /Users/maris/Documents/KaonScreenSaver/ConfigureSheet.nib
-s352012355.098839
-e352012360.615275
-r1
-xStripNIB
-x/Users/maris/Documents/KaonScreenSaver/ConfigureSheet.nib
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Processing /Users/maris/Documents/KaonScreenSaver/ConfigureSheet.nibc05e194348fbb441^e8839d4848fbb441^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/maris/Documents/KaonScreenSaver/ConfigureSheet.nib/0000000000000000^416"StripNIB ConfigureSheet.nib    cd /Users/maris/Documents/KaonScreenSaver    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --strip /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver/Contents/Resources/ConfigureSheet.nib --output-format human-readable-text /Users/maris/Documents/KaonScreenSaver/ConfigureSheet.nib36"8B08369E-CE5C-410D-B9DA-487890CD8D1F-
-
-CTouch /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver
-s352012368.800208
-e352012368.850463
-r1
-xTouch
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Touch /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.savere8f8cc5048fbb441^bbb8d95048fbb441^---0#0#0#--263"Touch DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver    cd /Users/maris/Documents/KaonScreenSaver    /usr/bin/touch -c /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/PickShowScreenSaver.saver36"D7E066F2-8C2B-4299-87B8-DEB125B7FF5B-
-

@@ -1,251 +1,0 @@
-TKaonScreenSaver
-v4
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/Info.plist Info.plist
-cCopyStringsFile /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-cStripNIB /Users/maris/Documents/KaonScreenSaver/ConfigureSheet.nib
-cProcessPCH /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/KaonScreenSaver_Prefix.pch.pth KaonScreenSaver_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/KaonScreenSaver_Prefix.pch.pth KaonScreenSaver_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaverView.o /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaverView.o /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaver normal i386
-cLd /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaver normal x86_64
-cCreateUniversalBinary /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/MacOS/KaonScreenSaver normal "x86_64 i386"
-cTouch /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver
-
-N/Developer/SDKs/MacOSX10.7.sdk
-c000000004F13BCEA00000000000000EE
-t1326693610
-s238
-
-N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
-c000000004E794DAC0000000000001911
-t1316572588
-s6417
-
-N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004E768C210000000000001534
-t1316391969
-s5428
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004F1082210000000000006560
-t1326481953
-s25952
-
-N/System/Library/Frameworks/ScreenSaver.framework/ScreenSaver
-c000000004F2F200C000000000007CFE0
-t1328488460
-s511968
-
-N/Users/maris/Documents/KaonScreenSaver/ConfigureSheet.nib
-c000000004DF9840D0000000000000088
-t1308197901
-s136
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaver
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaver.LinkFileList
-c000000004F4B0EF800000000000000B3
-t1330319096
-s179
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaverView.o
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaver
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaver.LinkFileList
-c000000004F4B0EF800000000000000B5
-t1330319096
-s181
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaverView.o
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/KaonScreenSaver_Prefix.pch.pth
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/KaonScreenSaver_Prefix.pch.pth
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/Info.plist
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/MacOS/KaonScreenSaver
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/Resources/ConfigureSheet.nib
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/Resources/English.lproj/InfoPlist.strings
-t2
-s0
-
-N/Users/maris/Documents/KaonScreenSaver/English.lproj/InfoPlist.strings
-c000000004CD8694500000000000000DE
-t1289251141
-s222
-
-N/Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m
-c000000004F4AD27C0000000000003AEA
-t1330303612
-s15082
-
-N/Users/maris/Documents/KaonScreenSaver/KaonScreenSaver_Prefix.pch
-c000000004CD8694500000000000000CA
-t1289251141
-s202
-i<Foundation/Foundation.h>
-i<AppKit/AppKit.h>
-
-NInfo.plist
-c000000004F4B0EB10000000000000362
-t1330319025
-s866
-
-CBuild AST from /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m
-r0
-
-CCheck dependencies
-r0
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies92b0ab7846fbb441^ee43ba7846fbb441^---0#1#0#--18"Check dependencies36"BB5C67A7-93D6-4AAA-BD32-832B45424051-
-
-CCompileC DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaverView.o /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s352011907.122664
-e352011907.937283
-r1
-xCompileC
-xDerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaverView.o
-x/Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m35971f8346fbb441^95f1ef8346fbb441^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m0000000000000000^2227"CompileC DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaverView.o KaonScreenSaverView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maris/Documents/KaonScreenSaver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/KaonScreenSaver.hmap -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/include -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/DerivedSources/i386 -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/DerivedSources -F/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -include /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/KaonScreenSaver_Prefix.pch -MMD -MT dependencies -MF /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaverView.d -c /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m -o /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaverView.o36"FC74199F-DD12-46CC-A457-4293B7ED0C26-
-
-CCompileC DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaverView.o /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s352011907.163241
-e352011908.024058
-r1
-xCompileC
-xDerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaverView.o
-x/Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m57ea298346fbb441^d829068446fbb441^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m0000000000000000^2239"CompileC DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaverView.o KaonScreenSaverView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maris/Documents/KaonScreenSaver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/KaonScreenSaver.hmap -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/include -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/DerivedSources/x86_64 -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/DerivedSources -F/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -include /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/KaonScreenSaver_Prefix.pch -MMD -MT dependencies -MF /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaverView.d -c /Users/maris/Documents/KaonScreenSaver/KaonScreenSaverView.m -o /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaverView.o36"75C56702-DB30-4FAE-9DA6-BF1C37ED1C5C-
-
-CCopyStringsFile /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-s352011896.746785
-e352011896.864016
-r1
-xCopyStringsFile
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/Resources/English.lproj/InfoPlist.strings
-xEnglish.lproj/InfoPlist.strings
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings399bce7846fbb441^5249dd7846fbb441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/maris/Documents/KaonScreenSaver/English.lproj/InfoPlist.strings0000000000000000^485"CopyStringsFile DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/maris/Documents/KaonScreenSaver    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"88344523-40F7-487C-9646-40F778E087F4-
-
-CCreateUniversalBinary /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/MacOS/KaonScreenSaver normal "x86_64 i386"
-s352011908.119064
-e352011908.179198
-r1
-xCreateUniversalBinary
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/MacOS/KaonScreenSaver
-xnormal
-xx86_64 i386
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection164"Create universal binary /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/MacOS/KaonScreenSaver0c921e8446fbb441^cadf2d8446fbb441^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/MacOS/KaonScreenSaver00f43865ddffdf42^714"CreateUniversalBinary DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/MacOS/KaonScreenSaver normal "x86_64 i386"    cd /Users/maris/Documents/KaonScreenSaver    /usr/bin/lipo -create /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaver /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaver -output /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/MacOS/KaonScreenSaver36"4E27F1FA-4CBA-4C55-A96C-79928E5D469B-
-
-CLd /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaver normal i386
-s352011907.944855
-e352011908.108097
-r1
-xLd
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaver
-xnormal
-xi386
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection177"Link /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaver0dfbf18346fbb441^b4ac1b8446fbb441^---0#0#0#--943"Ld DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaver normal i386    cd /Users/maris/Documents/KaonScreenSaver    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/clang -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.7.sdk -L/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -F/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -filelist /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaver.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework ScreenSaver -o /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/i386/KaonScreenSaver36"EE41D953-61CB-4515-BA76-77757F48D5AE-
-
-CLd /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaver normal x86_64
-s352011908.031775
-e352011908.111378
-r1
-xLd
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaver
-xnormal
-xx86_64
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection179"Link /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaver3541088446fbb441^a9831c8446fbb441^---0#0#0#--953"Ld DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaver normal x86_64    cd /Users/maris/Documents/KaonScreenSaver    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/clang -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.7.sdk -L/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -F/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -filelist /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaver.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework ScreenSaver -o /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/Objects-normal/x86_64/KaonScreenSaver36"200F54DB-B37E-4C4C-AF10-F549AB0F3513-
-
-CProcessInfoPlistFile /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/Info.plist Info.plist
-s352011896.732810
-e352011896.739214
-r1
-xProcessInfoPlistFile
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/Info.plist
-xInfo.plist
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist3facbb7846fbb441^3049bd7846fbb441^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/maris/Documents/KaonScreenSaver/Info.plist0000000000000000^380"ProcessInfoPlistFile DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/Info.plist Info.plist    cd /Users/maris/Documents/KaonScreenSaver    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/Info.plist36"4FD3B261-F8CE-4619-A77A-60BB40563EB8-
-
-CProcessPCH /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/KaonScreenSaver_Prefix.pch.pth KaonScreenSaver_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s352011905.675203
-e352011907.115578
-r1
-xProcessPCH
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/KaonScreenSaver_Prefix.pch.pth
-xKaonScreenSaver_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile KaonScreenSaver_Prefix.pch27faac8146fbb441^64961d8346fbb441^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/maris/Documents/KaonScreenSaver/KaonScreenSaver_Prefix.pch0000000000000000^2052"ProcessPCH DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/KaonScreenSaver_Prefix.pch.pth KaonScreenSaver_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maris/Documents/KaonScreenSaver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/KaonScreenSaver.hmap -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/include -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/DerivedSources/i386 -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/DerivedSources -F/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -c /Users/maris/Documents/KaonScreenSaver/KaonScreenSaver_Prefix.pch -o /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/KaonScreenSaver_Prefix.pch.pth -MMD -MT dependencies -MF /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-cxhmthufxyemucegejkfwopuuxyx/KaonScreenSaver_Prefix.pch.d36"9EA2A371-56A3-49C5-B103-161EF49AB821-
-
-CProcessPCH /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/KaonScreenSaver_Prefix.pch.pth KaonScreenSaver_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s352011905.674037
-e352011907.155506
-r1
-xProcessPCH
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/KaonScreenSaver_Prefix.pch.pth
-xKaonScreenSaver_Prefix.pch
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile KaonScreenSaver_Prefix.pch9ab5ac8146fbb441^07d0278346fbb441^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/maris/Documents/KaonScreenSaver/KaonScreenSaver_Prefix.pch0000000000000000^2058"ProcessPCH DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/KaonScreenSaver_Prefix.pch.pth KaonScreenSaver_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maris/Documents/KaonScreenSaver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/KaonScreenSaver.hmap -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/include -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/DerivedSources/x86_64 -I/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Intermediates/KaonScreenSaver.build/Debug/KaonScreenSaver.build/DerivedSources -F/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug -c /Users/maris/Documents/KaonScreenSaver/KaonScreenSaver_Prefix.pch -o /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/KaonScreenSaver_Prefix.pch.pth -MMD -MT dependencies -MF /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/PrecompiledHeaders/KaonScreenSaver_Prefix-dexeooejvzvtjaaygpienxijbdop/KaonScreenSaver_Prefix.pch.d36"87CEAAB7-E4D5-44A8-965E-6AD5825A8963-
-
-CProcessPCH /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Index/PrecompiledHeaders/KaonScreenSaver_Prefix-eblyifzofianyqgmgkcczybdosfl_ast/KaonScreenSaver_Prefix.pch.pth KaonScreenSaver_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Index/PrecompiledHeaders/KaonScreenSaver_Prefix-eyzspfxppthmnwedsbpqncvmsjjl_ast/KaonScreenSaver_Prefix.pch.pth KaonScreenSaver_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CStripNIB /Users/maris/Documents/KaonScreenSaver/ConfigureSheet.nib
-s352011896.747134
-e352011905.664750
-r1
-xStripNIB
-x/Users/maris/Documents/KaonScreenSaver/ConfigureSheet.nib
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Processing /Users/maris/Documents/KaonScreenSaver/ConfigureSheet.nibe258bf7846fbb441^4430aa8146fbb441^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/maris/Documents/KaonScreenSaver/ConfigureSheet.nib/0000000000000000^412"StripNIB ConfigureSheet.nib    cd /Users/maris/Documents/KaonScreenSaver    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --strip /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver/Contents/Resources/ConfigureSheet.nib --output-format human-readable-text /Users/maris/Documents/KaonScreenSaver/ConfigureSheet.nib36"6AB58A24-7F25-4AAE-9AED-1C6E0EC35361-
-
-CTouch /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver
-s352011908.187406
-e352011908.198205
-r1
-xTouch
-x/Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Touch /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver450f308446fbb441^34bf328446fbb441^---0#0#0#--255"Touch DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver    cd /Users/maris/Documents/KaonScreenSaver    /usr/bin/touch -c /Users/maris/Documents/KaonScreenSaver/DerivedData/KaonScreenSaver/Build/Products/Debug/KaonScreenSaver.saver36"7E50E6B0-2AFD-45B9-B492-D90E43B6990C-
-
