@@ -2,8 +2,8 @@
 //  KaonScreenSaverView.h
 //  KaonScreenSaver
 //
-//  Created by kaon on 11/8/10.
-//  Copyright © 2012 Peter Mikelsons. All rights reserved.
+//  Created by Peter on 11/8/10.
+//  Copyright © 2017 Peter Mikelsons. All rights reserved.
 //
 
 #import <ScreenSaver/ScreenSaver.h>
