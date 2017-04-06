@@ -316,6 +316,7 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				"INSTALL_PATH[sdk=*]" = "$(HOME)/Library/Screen Savers";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				PRODUCT_NAME = PickShowScreenSaver;
 				WRAPPER_EXTENSION = saver;
 				ZERO_LINK = YES;
@@ -335,6 +336,7 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				PRODUCT_NAME = PickShowScreenSaver;
 				WRAPPER_EXTENSION = saver;
 			};
