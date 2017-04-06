@@ -99,7 +99,7 @@
 		// Just show images.
 		NSString* universalTypeIdentifier = [[NSWorkspace sharedWorkspace] typeOfFile:filePath error:nil]; // Available starting v10.5
 		// Hopefully NSImage can handle all kUTTypeImages.
-		if (UTTypeConformsTo((CFStringRef)universalTypeIdentifier, kUTTypeImage)) {
+		if (UTTypeConformsTo((__bridge CFStringRef)universalTypeIdentifier, kUTTypeImage)) {
 			// process the document
             //			NSLog(@"%@", [m_path stringByAppendingPathComponent:file]) ;
 			[m_files addObject:file];
