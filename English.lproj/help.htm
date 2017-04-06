@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>PickShow Screen Saver Help</title>
+    <style>
+        body {
+            background-color: #fff;
+            font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+            font-size: 16px;
+            position: relative;
+            margin: 0;
+            left: 10%;
+            width: 80%;
+        }
+        .inline-image {
+            position: relative;
+            height: 2em;
+            vertical-align: middle;
+        }
+        .key {
+            margin: 2px;
+            border: 2px solid black;
+            border-radius: 4px;
+            padding: 2px;
+        }
+        tr:not(:first-child) {
+            height: 2em;
+        }
+    </style>
+</head>
+<body>
+<h2>PickShow Screen Saver</h2>
+    <p>&copy; 2012 Peter Mikelsons
+    <p>Version 1.0
+    
+    <h3>What is it?</h3>
+        
+        PickShow Screen Saver is a screen saver utility that you can install on your Mac OS X computer.
+        It lets you pick a folder on your hard drive, then, when your screen saver starts, it will show you all the pictures in that folder in random order.
+        If you like, you can choose subfolders to not show (such as the ones with embarrassing photos).
+        In addition, while the screen saver is running, you can use your keyboard to skip pictures you don't want to see, go back to ones you want to see again, move a really bad picture to the Trash, or exit the screen saver and open an interesting picture in Finder.
+        
+    <h3>How do I set it up?</h3>
+    <ol>
+        <li>Choose Apple menu > System Preferences<img src="System-Preferences-icon.png" class="inline-image" />,
+            then click Desktop &amp; Screen Saver.
+            <br><img src="System-Preferences-all.png" class="screenshot" />,
+        <li>Click Screen Saver (1). In the Screen Savers list, towards the bottom, under "Other", click PickShowScreenSaver (2).
+            <br><img src="System-Preferences-Screen-Savers.png" class="screenshot" />
+        <li>Click Options (3).
+            <ul>
+                <li>Click the ? button to get help (this page).
+                <li>Picture Folder: type the full folder name where your pictures are, or click Choose to browse to it.
+                <li>Folders to Skip: Click "+" to select folders to skip. Select a folder already in the list and click "-" to remove it and show pictures from it again.
+                <li>You can enter a number of seconds to show each picture.
+            </ul>
+            <br><img src="Options.png" class="screenshot" />
+    </ol>
+        
+    <h3>What keyboard keys control it?</h3>
+     
+    <table>
+        <tr>
+            <td><strong>key</strong><td><strong>action</strong>
+        <tr>
+            <td><span class="key">/</span><span class="key">h</span><td>briefly show this list
+        <tr>
+            <td><span class="key" title="right arrow">&rarr;</span><td>skip to next picture
+        <tr>
+            <td><span class="key" title="left arrow">&larr;</span><td>show previous picture
+        <tr>
+            <td><span class="key">f</span><td>exit screen saver and show current picture in Finder
+        <tr>
+            <td><span class="key">d</span><span class="key">back</span><span class="key">delete</span><span class="key">&#9003;</span><td>move current picture to Trash and skip to next picture
+        <tr>
+            <td>anything else<td>exit screen saver
+    </table>
+    
+    <h3>Any other tips?</h3>
+        
+    <ul>
+        <li><strong><a href="http://en.wikipedia.org/wiki/Screen_burn-in">Screen burn in</a> warning:</strong> Depending on what pictures you select for PickShow, what kind of monitor you have, and how long before your display is set to go to sleep, PickShow Screen Saver may not protect against screen burn in. Try to choose a large number of pictures, or set your screen to go to sleep after no more than a few hours (which will save energy too!).
+        <li><strong>Network Directories:</strong> You can set the Picture Folder to a folder accessed over your network, such as on a shared folder on your local network or an online "cloud" folder on the internet. This can be nice when you don't have many pictures on your local hard drive, but there are a couple of issues to watch out for. One is that display can be slow at times, especially when starting up as PickShow makes an index of all the pictures. The other is that when you try to delete a picture, it may not be moved to Trash for that drive, or it may be completely deleted, so be careful.
+    </ul>
+</body>
+</html>
