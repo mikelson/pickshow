@@ -3,7 +3,7 @@ http://frombits.com/pickshow
 
 pickshow@frombits.com
 
-© 2012 Peter Mikelsons
+© 2017 Peter Mikelsons
 
 This software is offered as is, so use it at your own risk.
 
