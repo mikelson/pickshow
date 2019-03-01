@@ -3,7 +3,7 @@
 //  PickShowScreenSaver
 //
 //  Created by Peter on 11/8/10.
-//  Copyright © 2017 Peter Mikelsons. All rights reserved.
+//  Copyright © 2019 Peter Mikelsons. All rights reserved.
 //
 // Debugging in Xcode 4. Do clean build, then view build log in Log navigator to find product bundle name.
 // Product > Edit Scheme... > Run System Preferences > Arguments Passed on Launch > <.saver take from build log>
